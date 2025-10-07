@@ -26,8 +26,6 @@ When I'm not coding, you'll find me strategizing over a chessboard ♟️ – be
 
 ### 🍳 [**EcoCook**](https://github.com/baloghady/ecocook)
 
-👉 [Check out the project](https://github.com/baloghady/ecocook)
-
 ---
 
 ## 📊 GitHub Stats
