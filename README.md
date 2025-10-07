@@ -1,16 +1,79 @@
-## Hi there 👋
+# Hi there!👋
 
-<!--
-**baloghady/baloghady** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Banner](./banner.png)
 
-Here are some ideas to get you started:
+## 🚀 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I started my programming journey in high school and haven't looked back since. I'm passionate about **web development** and **artificial intelligence**, constantly exploring how technology can solve real-world problems. Currently studying at the **University of Pannonia**, I'm on a mission to sharpen my coding skills and collaborate with creative minds to build meaningful projects.
+
+When I'm not coding, you'll find me strategizing over a chessboard ♟️ – because problem-solving is my game, both on screen and on the board.
+
+---
+
+## 💻 Tech Stack
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+---
+
+## 🌱 Currently Building
+
+### 🍳 [**EcoCook**](https://github.com/baloghady/ecocook)
+
+👉 [Check out the project](https://github.com/baloghady/ecocook)
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=baloghady&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=baloghady&layout=compact&theme=tokyonight&hide_border=true)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=baloghady&theme=tokyonight&hide_border=true)
+
+</div>
+
+---
+
+## ♟️ Latest Chess Game
+
+<div align="center">
+
+[![Chess.com Profile](https://img.shields.io/badge/Chess.com-Profile-green?style=for-the-badge&logo=chess.com)](https://www.chess.com/member/baloghady)
+
+![My Latest Chess Game](https://chess-stats-api.herokuapp.com/game?username=baloghady)
+
+**Last Game Result:** ![Game Result](https://chess-stats-api.herokuapp.com/result?username=baloghady)
+
+</div>
+
+---
+
+## 📫 Connect With Me
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/baloghady)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/baloghady)
+[![Chess.com](https://img.shields.io/badge/Chess.com-7FA650?style=for-the-badge&logo=chess.com&logoColor=white)](https://www.chess.com/member/baloghady)
+
+</div>
+
+---
+
+<div align="center">
+
+*"Code is like chess – every move matters, and strategy wins the game."*
+
+![Profile Views](https://komarev.com/ghpvc/?username=baloghady&color=blueviolet&style=flat-square)
+
+</div>
