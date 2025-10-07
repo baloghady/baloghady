@@ -42,15 +42,13 @@ When I'm not coding, you'll find me strategizing over a chessboard ♟️ – be
 
 ---
 
-## ♟️ Latest Chess Game
+## ♟️ Chess
 
 <div align="center">
 
-[![Chess.com Profile](https://img.shields.io/badge/Chess.com-Profile-green?style=for-the-badge&logo=chess.com)](https://www.chess.com/member/baloghady)
+[![Chess.com](https://img.shields.io/badge/Chess.com-baloghady-success?style=for-the-badge&logo=lichess&logoColor=white)](https://www.chess.com/member/baloghady)
 
-![My Latest Chess Game](https://chess-stats-api.herokuapp.com/game?username=baloghady)
-
-**Last Game Result:** ![Game Result](https://chess-stats-api.herokuapp.com/result?username=baloghady)
+**Check out my games on Chess.com!**
 
 </div>
 
@@ -69,8 +67,6 @@ When I'm not coding, you'll find me strategizing over a chessboard ♟️ – be
 ---
 
 <div align="center">
-
-*"Code is like chess – every move matters, and strategy wins the game."*
 
 ![Profile Views](https://komarev.com/ghpvc/?username=baloghady&color=blueviolet&style=flat-square)
 
