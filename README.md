@@ -46,7 +46,7 @@ When I'm not coding, you'll find me strategizing over a chessboard ♟️ – be
 
 <div align="center">
 
-[![Chess.com](https://img.shields.io/badge/Chess.com-baloghady-success?style=for-the-badge&logo=lichess&logoColor=white)](https://www.chess.com/member/baloghady)
+[![Chess.com](https://img.shields.io/badge/Chess.com-baloghady-success?style=for-the-badge&logo=chesscom&logoColor=white)](https://www.chess.com/member/baloghady)
 
 **Check out my games on Chess.com!**
 
